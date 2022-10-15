@@ -36,7 +36,7 @@ export const SubPath = () => (
                     <>
                         <h1>Main</h1>
                         <div>
-                            <Link to="/admin">Go to admin</Link>
+                            <Link to="/admin">Go to admin vvv</Link>
                         </div>
                     </>
                 }
